@@ -1,0 +1,4 @@
+Text,Sentiment_Score,Sentiment
+I love this product!,0.6696,positive
+This is the worst experience ever.,-0.6249,negative
+"It's okay, not great.",-0.3387,negative
